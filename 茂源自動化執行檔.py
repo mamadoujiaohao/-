@@ -6,6 +6,7 @@ import numpy as np
 
 np.set_printoptions(threshold=np.inf)  #讓np可以print出全部的資訊
 import pathlib
+
 """連接NAS"""
 #from synology_dsm import SynologyDSM
 #api = SynologyDSM("xxx", "xxx", "xxx", "xxx") #連接NAS(用主管的ID)
